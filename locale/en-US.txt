@@ -1,0 +1,365 @@
+#: locale=en-US
+
+## Acción
+
+### URL
+LinkBehaviour_7DB9AD5A_6FBC_3CBB_41D5_4E0D08ADB4F7.source = https://bit.ly/3yeVOpT
+LinkBehaviour_ABF0184F_B818_8FA3_41D2_C3766694AA0C.source = https://bit.ly/3yeVOpT
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://maps.google.com/maps?output=embed&center=-2.187218,-79.8969556&z=17&q=Fortich+Apart+Hotel
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.google.com/maps?output=embed&center=-2.187218,-79.8969556&z=17&q=Fortich+Apart+Hotel
+
+## Hotspot
+
+### Texto
+QuadHotspotPanoramaOverlayTextImage_4689DAA8_709C_0586_4196_E272305A3266.text = Baño
+QuadHotspotPanoramaOverlayTextImage_5A5773D6_709C_0B8B_41C7_7E4E1C1CF639.text = Baño
+QuadHotspotPanoramaOverlayTextImage_376D9C96_7094_1D8B_4189_95A0F9C4FD66.text = CASILLEROS
+QuadHotspotPanoramaOverlayTextImage_417F2F81_7094_7B89_41C0_3C7DB97034B3.text = Ducha
+QuadHotspotPanoramaOverlayTextImage_4DC99E3D_7094_1CF9_41C1_42E44715F35A.text = Jacuzzi
+QuadHotspotPanoramaOverlayTextImage_3E5B3105_709C_0489_41D6_6A50F912CEE0.text = SAUNA SECA
+QuadHotspotPanoramaOverlayTextImage_3DD59691_709C_0D89_41CD_2577ECDD105D.text = SAUNA VAPOR
+
+### Tooltip
+HotspotPanoramaOverlayArea_38F903E2_708C_0B8A_41D0_680D183B80EC.toolTip = Bar
+HotspotPanoramaOverlayArea_4FB76BF9_6F74_3B79_41C8_5C6484C8237F.toolTip = Bar
+HotspotPanoramaOverlayArea_42B84417_708C_0C89_41DC_B639C9EDBBBB.toolTip = Baño
+HotspotPanoramaOverlayArea_47167399_70F4_0B86_41D7_F2681DD79095.toolTip = Baño
+HotspotPanoramaOverlayArea_42D462DD_708C_05B9_41C7_5004748B96C8.toolTip = Baño
+HotspotPanoramaOverlayArea_380731E9_708C_0799_41D6_90D2CA032446.toolTip = Baños y Saunas
+HotspotPanoramaOverlayArea_42516A41_708C_0486_41B1_B04702E2F69C.toolTip = Dormitorio
+HotspotPanoramaOverlayArea_5BB52B80_7094_1B87_41D1_E0252F71FC80.toolTip = Hall de habitaciones
+HotspotPanoramaOverlayArea_99675C78_831A_075E_41CE_F85FE562858A.toolTip = Piscina
+HotspotPanoramaOverlayArea_9B583676_832A_0353_41DA_5AD9320DD5C5.toolTip = Piscina
+HotspotPanoramaOverlayArea_9B0DF3F6_832E_0153_41D5_04867E41A12A.toolTip = Pérgola
+HotspotPanoramaOverlayArea_99E3D4A5_831A_07F6_41D5_634FE644B9A9.toolTip = Pérgola
+HotspotPanoramaOverlayArea_A5A663B7_836A_01D1_41DD_2EF01F1A4384.toolTip = Pérgola
+HotspotPanoramaOverlayArea_A5DD9441_836A_06B1_41DE_699EB870EF41.toolTip = Pérgola
+HotspotPanoramaOverlayArea_A38B2EF8_836A_035F_41C3_8B607EF52435.toolTip = Pérgola
+HotspotPanoramaOverlayArea_4042CF9D_70BC_1BB9_41D3_256C91E66011.toolTip = Sala comedor
+HotspotPanoramaOverlayArea_4320AB47_70BC_048A_41D2_97366A52B95F.toolTip = Sala comedor
+HotspotPanoramaOverlayArea_433E8519_70BC_0CB9_41D6_135FCB864200.toolTip = Sala comedor
+HotspotPanoramaOverlayArea_46657928_70FC_0486_41BA_0DF718A1D7B9.toolTip = Terraza
+HotspotPanoramaOverlayArea_9480154E_832E_06B2_4152_C5E5EA035997.toolTip = Terraza
+HotspotPanoramaOverlayArea_580E8561_7094_0C89_41CF_3F145477F0EC.toolTip = Terraza
+
+## Media
+
+### Audio
+audiores_529F772D_7884_2DC7_41B9_B15053F04554.mp3Url = media/audio_51001257_7884_E443_41BF_0DA2968C6617_en-US.mp3
+audiores_5E628C86_7E7E_7373_41D6_156CF25C61F8.mp3Url = media/audio_61183310_7E7F_956F_41DB_671048AFDAA3_en-US.mp3
+audiores_7364B832_6F9C_048B_41BF_F11E1381A0E2.mp3Url = media/audio_79BFDC4C_6F94_1C9F_41C1_4789EB4885DD_en-US.mp3
+audiores_73928A3F_6F9C_04FA_41D4_22BF4ACA49AB.mp3Url = media/audio_7CC64DD6_6E82_740D_41C7_8A7E4946E203_en-US.mp3
+
+### Imágen
+imlevel_8C4FAF58_82CF_E653_41D2_89C1C1BD35E6.url = media/panorama_615CE144_6E8D_EC0D_418A_DFC184FCE287_HS_2cltaa96_en-US.png
+imlevel_8CE60169_82CF_DA72_41C1_34DDAE3F1F97.url = media/panorama_615CE144_6E8D_EC0D_418A_DFC184FCE287_HS_7p5momvu_en-US.png
+imlevel_8CB14EFD_82CF_E652_41D8_B8C78C5410B5.url = media/panorama_615CE144_6E8D_EC0D_418A_DFC184FCE287_HS_p3g79kki_en-US.png
+imlevel_8F752DBC_82CF_EAD3_41BD_00C89B85CAF7.url = media/panorama_615CE144_6E8D_EC0D_418A_DFC184FCE287_HS_vbcmzalm_en-US.png
+imlevel_8CE7225C_82CF_DE52_41DA_45DA4AF402D4.url = media/panorama_615DB245_6E8D_EC0F_41C3_2225622FC6DA_HS_4egko4p8_en-US.png
+imlevel_8CE611D3_82CF_DA56_41D9_F1139ED95492.url = media/panorama_615DB245_6E8D_EC0F_41C3_2225622FC6DA_HS_4rtc1lsx_en-US.png
+imlevel_8CE552F1_82CF_DE52_41CB_1FE1E7559EA8.url = media/panorama_67EB30DF_7E79_99D0_41D8_A9DB018DAF08_HS_su54kh1k_en-US.png
+
+### Subtítulos de Audio
+
+### Subtítulos de Video
+
+### Título
+panorama_9BDFB42F_8326_06F1_41D1_204711977BA6.label = Area piscina y bar
+panorama_9A9CAA25_8326_02F6_4174_FCA4E9399374.label = Bar
+panorama_A95E30F9_B817_806F_41D7_5F6818350728.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_13.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_4.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_7.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_8.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_9.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_12.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_14.label = Doble Familiar
+album_58C153E1_79E1_23E5_41C7_889C2C153095_2.label = Doble Familiar
+panorama_69660680_7E09_9830_41CB_94ABFD71AB57.label = Doble Familiar
+panorama_68FF26E4_7E06_99F7_41C3_B051814DC70E.label = Doble Familiar
+panorama_A9C59AFE_B829_8065_41D6_F8D18B695780.label = Doble Familiar
+panorama_68E9AA11_7E07_A851_41D8_B0DD7C4CEFED.label = Doble Sencilla
+panorama_681CB1F5_7E07_BBD0_41C6_9DABB692A866.label = Doble Sencilla
+panorama_A95C2420_B829_879D_41E2_62F35E481483.label = Doble Sencilla
+panorama_68601B87_7E0A_A830_41D8_C1DB55720BE7.label = Doble sencilla
+panorama_5497FAE3_798C_6443_41B5_000E80BCC940.label = Entrada al lobby
+panorama_7EF63BFF_6E86_B3FB_41D9_FA6DBD9DAD91.label = Fachada
+panorama_615CE144_6E8D_EC0D_418A_DFC184FCE287.label = Hall Sauna
+panorama_615DB245_6E8D_EC0F_41C3_2225622FC6DA.label = Hall de baños
+panorama_7FCD2472_6E8D_940A_41D7_8B7A5B0C434D.label = Hall de habitaciones
+panorama_7CA069D8_6E85_BC05_41D6_F8EC429EF56A.label = Lobby
+panorama_68AD4A98_7E79_E850_41C3_565A28459CA8.label = Matrimonial
+panorama_68C93EDA_7E06_A9D3_419B_EE172CE697C3.label = Matrimonial
+panorama_615FBF2A_6E8D_B41A_41C6_486EC1EA731F.label = Matrimonial
+photo_510FD3F3_7921_23E5_41A5_D150D3CE1B2E.label = Matrimonial
+photo_510FA5FE_7921_27DE_41D5_FBAB37710A3D.label = Matrimonial
+photo_510F5A92_7921_6C26_41A1_19981B2D1646.label = Matrimonial
+photo_510F5A92_7921_6C26_41A1_19981B2D1646.label = Matrimonial
+photo_510FECB2_7921_2467_41CF_B48FED6999ED.label = Matrimonial
+photo_510F51AC_7921_7C63_41D2_2800BBC4E4A0.label = Matrimonial
+photo_510FECB2_7921_2467_41CF_B48FED6999ED.label = Matrimonial
+photo_510F51AC_7921_7C63_41D2_2800BBC4E4A0.label = Matrimonial
+photo_541CC5E0_7921_27E3_41D4_0433320F61AB.label = Matrimonial
+photo_510F08D2_7921_EC26_41D3_EF1F5D2C05C1.label = Matrimonial
+photo_510FD3F3_7921_23E5_41A5_D150D3CE1B2E.label = Matrimonial
+photo_510F08D2_7921_EC26_41D3_EF1F5D2C05C1.label = Matrimonial
+photo_541CC5E0_7921_27E3_41D4_0433320F61AB.label = Matrimonial
+photo_510F6FA0_7921_2462_4191_B1A8C3E331FF.label = Matrimonial
+photo_510F6FA0_7921_2462_4191_B1A8C3E331FF.label = Matrimonial
+photo_510FA5FE_7921_27DE_41D5_FBAB37710A3D.label = Matrimonial
+panorama_6847F93F_7E7A_E850_41D5_AE941EB35416.label = Mini Suite Especial
+panorama_67EB30DF_7E79_99D0_41D8_A9DB018DAF08.label = Mini Suite Especial
+panorama_68AAB0A1_7E7B_9870_41C2_C092178225F2.label = Mini Suite Especial
+photo_5D89FAF4_7ADF_2DE3_41D0_D234147EAF5A.label = Sencilla
+photo_20DB225A_7ADF_3C26_41D1_5E276A121788.label = Sencilla
+photo_20DB225A_7ADF_3C26_41D1_5E276A121788.label = Sencilla
+photo_5D89FAF4_7ADF_2DE3_41D0_D234147EAF5A.label = Sencilla
+panorama_9AB844D9_832A_0751_41A9_58F220C80D03.label = Terraza 1
+panorama_B714A19B_8D6E_01D2_41C5_3552F89E175E.label = Terraza 5
+panorama_9A9FC383_831E_01B2_41CC_22687A00B933.label = Terraza 6
+panorama_9A1CE223_831E_02F2_41C6_7721FA15D2A0.label = Terraza 7
+panorama_ADF5B29B_8366_03D2_41BC_2552593C8797.label = Terraza 8
+panorama_9A87DF25_8326_02F6_41B0_68F045D76535.label = Terraza2
+panorama_9B5261B3_833A_01D2_4180_0B9C0ACAF8B2.label = Terraza3
+panorama_9B65B798_8326_01DF_41D5_5869BBC16BAD.label = Terraza4
+photo_20D7A0F1_7ADF_1DE5_41C1_A94B143C7F70.label = fortich_AGstudio
+photo_20D7A0F1_7ADF_1DE5_41C1_A94B143C7F70.label = fortich_AGstudio
+photo_5DB39E73_7AE1_24E6_41D5_F92883009741.label = fortich_AGstudio_10
+photo_5DB39E73_7AE1_24E6_41D5_F92883009741.label = fortich_AGstudio_10
+photo_5DB42126_7AE1_7C6E_41D5_D7FD9A6047F5.label = fortich_AGstudio_12
+photo_5DB42126_7AE1_7C6E_41D5_D7FD9A6047F5.label = fortich_AGstudio_12
+photo_5DB42A12_7AE1_6C26_4171_5C781A8DED32.label = fortich_AGstudio_13
+photo_5DB42A12_7AE1_6C26_4171_5C781A8DED32.label = fortich_AGstudio_13
+photo_5DB45370_7AE1_1CE2_41B5_CF8D33AF00A7.label = fortich_AGstudio_14
+photo_5DB45370_7AE1_1CE2_41B5_CF8D33AF00A7.label = fortich_AGstudio_14
+photo_5DB41CD5_7AE1_2422_41D5_43488845E742.label = fortich_AGstudio_15
+photo_5DB41CD5_7AE1_2422_41D5_43488845E742.label = fortich_AGstudio_15
+photo_5DB40620_7AE1_2463_41AB_362E7DB1FE96.label = fortich_AGstudio_16
+photo_5DB40620_7AE1_2463_41AB_362E7DB1FE96.label = fortich_AGstudio_16
+photo_5D8C0D60_7ADF_24E2_41D4_03B9520D22DD.label = fortich_AGstudio_3
+photo_5D8C0D60_7ADF_24E2_41D4_03B9520D22DD.label = fortich_AGstudio_3
+photo_5D8D7696_7ADE_E42F_41D7_ADF1213D2C5D.label = fortich_AGstudio_4
+photo_5D8D7696_7ADE_E42F_41D7_ADF1213D2C5D.label = fortich_AGstudio_4
+photo_5DB332B6_7AE1_1C6E_41BF_6843DE2EA5AE.label = fortich_AGstudio_7
+photo_5DB332B6_7AE1_1C6E_41BF_6843DE2EA5AE.label = fortich_AGstudio_7
+photo_5DB32BAE_7AE1_2C7F_41D3_0F572981A4B0.label = fortich_AGstudio_8
+photo_5DB32BAE_7AE1_2C7F_41D3_0F572981A4B0.label = fortich_AGstudio_8
+photo_5DB364DC_7AE1_2423_419D_527AD7DE2E88.label = fortich_AGstudio_9
+photo_5DB364DC_7AE1_2423_419D_527AD7DE2E88.label = fortich_AGstudio_9
+photo_5F3CC0D8_7921_3C22_41D4_BB0FF499E8F7.label = minisuite
+photo_5D937A70_7921_2CE2_4198_6FD002C9543C.label = minisuite
+photo_5D929D21_7921_E462_418E_3B7AB9338F31.label = minisuite
+photo_5D9363B7_7921_1C6E_41D2_D2A8BE5512EA.label = minisuite
+photo_5D929D21_7921_E462_418E_3B7AB9338F31.label = minisuite
+photo_5D937A70_7921_2CE2_4198_6FD002C9543C.label = minisuite
+photo_5F3CC0D8_7921_3C22_41D4_BB0FF499E8F7.label = minisuite
+photo_5D9363B7_7921_1C6E_41D2_D2A8BE5512EA.label = minisuite
+panorama_B885EF75_B7F8_8066_41D7_6969CACA550E.label = piscina
+video_7919292C_6F8C_049E_41D7_DA191DA1E6E8.label = recepcionista 28seg
+panorama_6AA6E31F_7E06_9851_41D0_8E6E9FB42065.label = sauna turco
+panorama_6843B564_7E06_98F0_41D6_E138DB481511.label = suana vapor
+video_5C0C9D9A_7923_2427_41A9_B8ACB54FE7C6.label = video hotel
+album_58C153E1_79E1_23E5_41C7_889C2C153095.label = Álbum de Fotos
+
+### Video
+videolevel_438B60DE_5EFA_1E1B_4169_E6332B3417B6.url = media/video_5C0C9D9A_7923_2427_41A9_B8ACB54FE7C6_en-US.m3u8
+videolevel_438AA0E0_5EFA_1E27_41CA_B13D46D8917F.url = media/video_5C0C9D9A_7923_2427_41A9_B8ACB54FE7C6_en-US.mp4
+videolevel_438B60DE_5EFA_1E1B_4169_E6332B3417B6.posterURL = media/video_5C0C9D9A_7923_2427_41A9_B8ACB54FE7C6_poster_en-US.jpg
+videolevel_438AA0E0_5EFA_1E27_41CA_B13D46D8917F.posterURL = media/video_5C0C9D9A_7923_2427_41A9_B8ACB54FE7C6_poster_en-US.jpg
+videolevel_43F2F404_5EFA_05E8_4193_4D79963E784E.url = media/video_7919292C_6F8C_049E_41D7_DA191DA1E6E8_en-US.mp4
+videolevel_43F2F404_5EFA_05E8_4193_4D79963E784E.posterURL = media/video_7919292C_6F8C_049E_41D7_DA191DA1E6E8_poster_en-US.jpg
+
+## Menú VR
+
+### Texto
+MenuItem_9BA6B9B9_B868_80EF_41E6_4EABB0738741.label = Area piscina y bar
+MenuItem_9BA649B9_B868_80EF_41BC_0E81003FF970.label = Bar
+MenuItem_9BA699B9_B868_80EF_41E1_4CCE63DC111B.label = Doble Familiar
+MenuItem_9BA549B9_B868_80EF_4195_C019DCAD1132.label = Doble Familiar
+MenuItem_9BA6E9B9_B868_80EF_41E4_61248AA8D216.label = Doble Familiar
+MenuItem_9BA629B9_B868_80EF_41E2_96EA7A20BB28.label = Doble Familiar
+MenuItem_9BA799B9_B868_80EF_41B6_7CB1650834D8.label = Doble Sencilla
+MenuItem_9BA7B9B9_B868_80EF_41D6_8188A98C2D44.label = Doble Sencilla
+MenuItem_9BA6A9B9_B868_80EF_41E0_1C1C0604919A.label = Doble Sencilla
+MenuItem_9BA679B9_B868_80EF_41E0_FFBB8AE1F6B4.label = Doble sencilla
+MenuItem_9BA6F9B9_B868_80EF_41E6_F1C2E3A982F6.label = Entrada al lobby
+MenuItem_9BA609B9_B868_80EF_41E1_08E4E7C0F684.label = Fachada
+MenuItem_9BA619B9_B868_80EF_41C4_B4413E484DDA.label = Hall Sauna
+MenuItem_9BA5E9B8_B868_80ED_41BD_7A0B24B48DC0.label = Hall de baños
+MenuItem_9BA7E9B9_B868_80EF_41D9_75452FD291F2.label = Hall de habitaciones
+MenuItem_9BA529B8_B868_80ED_41CD_8810E6C81DC7.label = Lobby
+MenuItem_9BA6B9B9_B868_80EF_41D4_7F62D7972F80.label = Matrimonial
+MenuItem_9BA6C9B9_B868_80EF_41E4_7EE0C5C61036.label = Matrimonial
+MenuItem_9BA7C9B9_B868_80EF_41D6_BC4725EE39D0.label = Matrimonial
+Menu_649FCEAD_7E39_E871_419A_0BC94B18E343.label = Media
+MenuItem_9BA559B9_B868_80EF_41D0_C2B66C720385.label = Mini Suite Especial
+MenuItem_9BA689B9_B868_80EF_41BE_B412CF3949BA.label = Mini Suite Especial
+MenuItem_9BA669B9_B868_80EF_41C2_1557FD2349AC.label = Mini Suite Especial
+MenuItem_9BA5D9B8_B868_80ED_41C4_DA093CF31AD4.label = Terraza 1
+MenuItem_9BA6C9B9_B868_80EF_41E4_694A7B3C0124.label = Terraza 5
+MenuItem_9BA5F9B8_B868_80ED_41E6_4F17DFA50A3A.label = Terraza 6
+MenuItem_9BA5C9B8_B868_80ED_41D1_F447DE259FD5.label = Terraza 7
+MenuItem_9BA7F9B9_B868_80EF_41BD_22B53FC83237.label = Terraza 8
+MenuItem_9BA609B9_B868_80EF_41CC_B9EFC281F017.label = Terraza2
+MenuItem_9BA699B9_B868_80EF_41D9_9F2681CF2D42.label = Terraza3
+MenuItem_9BA629B9_B868_80EF_4185_170C21E04710.label = Terraza4
+MenuItem_9BA6E9B9_B868_80EF_41DB_9ED6CD819F65.label = piscina
+MenuItem_9BA579B9_B868_80EF_41BB_2E8F29FE9F9F.label = sauna turco
+MenuItem_9BA509B9_B868_80EF_41E2_E6D2E54BAE5D.label = suana vapor
+
+## Skin
+
+### Botón
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = ATRAS
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = ATRAS
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = ATRAS
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = ATRAS
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = ATRAS
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = ATRAS
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = Amenities >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = Amenities >
+Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = Bar y Piscina
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = Bar y Piscina
+Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Doble Familiar
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Doble Familiar
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Doble Sencilla
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.label = Doble Sencilla
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Entrada Principal
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Entrada Principal
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = Habitaciones >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = Habitaciones >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = Inserdt Text
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
+Button_54C57384_7923_7C23_41D6_1F39038725CA_mobile.label = Lobby
+Button_54C57384_7923_7C23_41D6_1F39038725CA.label = Lobby
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Lobby / Reception
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = Lobby / Reception
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.pressedLabel = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.pressedLabel = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F_mobile.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7_mobile.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6_mobile.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A_mobile.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.pressedLabel = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB_mobile.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673_mobile.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371_mobile.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28_mobile.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171_mobile.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708_mobile.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2_mobile.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E_mobile.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC_mobile.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3_mobile.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6_mobile.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.pressedLabel = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76_mobile.label = Lorem Ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0_mobile.label = Lorem ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B_mobile.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE_mobile.label = Lorem ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Matrimonial
+Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Matrimonial
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01_mobile.label = Mini Suite Especial
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Mini Suite Especial
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = Piscina
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Piscina
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = Saunas
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Saunas
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779_mobile.label = Terrace
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Terrace
+Button_7A10D246_4B2E_E652_415D_FC1C95F4A9F6.label = Terraza
+Button_7A10D246_4B2E_E652_415D_FC1C95F4A9F6_mobile.label = Terraza
+
+### Etiqueta
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = FORTICH
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = FORTICH
+
+### Imágen
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en-US.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_en-US.png
+Image_1E18723C_57F1_802D_41C5_8325536874A5.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_en-US.png
+Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile_en-US.png
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_en-US.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile_en-US.jpg
+Image_21D45FE6_7AEF_23EE_41D3_2BBCC76F78EF.url = skin/Image_21D45FE6_7AEF_23EE_41D3_2BBCC76F78EF_en-US.png
+Image_21D45FE6_7AEF_23EE_41D3_2BBCC76F78EF_mobile.url = skin/Image_21D45FE6_7AEF_23EE_41D3_2BBCC76F78EF_mobile_en-US.png
+Image_22F161CB_7AE1_FC25_41CC_1A992E5306F4.url = skin/Image_22F161CB_7AE1_FC25_41CC_1A992E5306F4_en-US.png
+Image_22F161CB_7AE1_FC25_41CC_1A992E5306F4_mobile.url = skin/Image_22F161CB_7AE1_FC25_41CC_1A992E5306F4_mobile_en-US.png
+Image_5541948C_7984_6CC5_41DC_56AE9720F8E3.url = skin/Image_5541948C_7984_6CC5_41DC_56AE9720F8E3_en-US.png
+Image_5541948C_7984_6CC5_41DC_56AE9720F8E3_mobile.url = skin/Image_5541948C_7984_6CC5_41DC_56AE9720F8E3_mobile_en-US.png
+Image_5F3F9AEB_7AE1_EDE5_41D4_34A86311C3D5.url = skin/Image_5F3F9AEB_7AE1_EDE5_41D4_34A86311C3D5_en-US.png
+Image_5F3F9AEB_7AE1_EDE5_41D4_34A86311C3D5_mobile.url = skin/Image_5F3F9AEB_7AE1_EDE5_41D4_34A86311C3D5_mobile_en-US.png
+
+### Texto Multilínea
+HTMLText_6B041178_4F61_1CE2_41B1_A64743B48AC5.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:31px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Sumérgete en una experiencia de serenidad y confort, donde encontrarás el equilibrio perfecto entre relax y elegancia. Nuestras habitaciones ofrecen una gama de comodidades, desde amenidades de lujo hasta acceso a nuestro minibar y desayuno servido en la habitación.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Disfruta de momentos de tranquilidad en nuestra piscina y sauna en el rooftop y asegura tu comodidad con nuestro estacionamiento privado. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Contamos con apartamentos totalmente amoblados con servicio de hotelería.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Da click y encuentranos en: </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/4bffUyV" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">airbnb.com</SPAN></A></SPAN><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">, </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/3JUy7ps" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">booking.com</SPAN></A></SPAN><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">, </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/3yeVOpT" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">google+</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Correo: tour.travel@hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:17px;font-family:'Gotham';">Celular: +593-98-663-6862</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6B041178_4F61_1CE2_41B1_A64743B48AC5_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:15.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Sumérgete en una experiencia de serenidad y confort, donde encontrarás el equilibrio perfecto entre relax y elegancia. Nuestras habitaciones ofrecen una gama de comodidades, desde amenidades de lujo hasta acceso a nuestro minibar y desayuno servido en la habitación.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Disfruta de momentos de tranquilidad en nuestra piscina y sauna en el rooftop y asegura tu comodidad con nuestro estacionamiento privado. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Contamos con apartamentos totalmente amoblados con servicio de hotelería.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Da click y encuentranos en: </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/4bffUyV" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">airbnb.com</SPAN></A></SPAN><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">, </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/3JUy7ps" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">booking.com</SPAN></A></SPAN><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">, </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://bit.ly/3yeVOpT" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">google+</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Correo: tour.travel@hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8.5px;font-family:'Gotham';">Celular: +593-98-663-6862</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.359999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.77vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.359999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.77vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5800000000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2700000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.250000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5800000000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.2700000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1100000000000017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.250000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Gotham';">www.hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Gotham';">tour.travel@hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Gotham';">Tlf.: +593-98-663-6862</SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;font-family:'Gotham';">www.hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;font-family:'Gotham';">tour.travel@hotelfortich.com.ec</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.5px;font-family:'Gotham';">Tlf.: +593-98-663-6862</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = HOTEL FORTICH
